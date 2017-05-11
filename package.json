@@ -1,0 +1,20 @@
+{
+  "name": "json2geo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "json2geo": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "rbush": "^2.0.1",
+    "real-changesets-parser": "^1.2.3",
+    "underscore": "^1.8.3"
+  }
+}
